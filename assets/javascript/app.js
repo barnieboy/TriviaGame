@@ -1,5 +1,5 @@
-$('document.).ready(function(){
-  function buildQuiz() {
+$(document).ready(function(){
+function buildQuiz() {
     
     const output = [];
 
@@ -153,4 +153,5 @@ $('document.).ready(function(){
 };
 };
 
-};
+
+});
