@@ -1,0 +1,39 @@
+body {
+  background-image: url("../images/background.jpeg");
+  background-color: blue;
+  padding: 20px;
+
+}
+.hide {
+  display: none;
+}
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  color: red;
+  font-size: 60;
+  font: bold 30px Arial;
+	
+}
+p {
+  text-align: center;
+  color: red;
+  font: bold 20px helvetica;
+  font-size: 20;
+
+}
+
+.qheader{
+font:bold 20px Arial;
+font-size: 18;
+color: yellow;
+
+}
+#input {
+	font: bold 10px helvetica;
+	font-size: 14;
+	color: black;
+}
+
+
+
